@@ -9,5 +9,7 @@ Setup()
 1.connect your phone to your computer with a cable. 2.enable ADB in the Developor options on your smartphone
 3.accept the connection from the computer or device you're running the script on 4.run the installer with (python3 installer.py)
 5.run Whatsdump.py with (python3 whatsdump.py)
-  
-  if it doesn't work in the fist couple of tries just re-run the script
+
+if it doesn't work in the fist couple of tries just re-run the script
+
+You can also use this with adb-wifi. Just run adb connect {ip to connect to} and after that you should be good to go
