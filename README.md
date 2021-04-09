@@ -3,6 +3,7 @@ This is a tool for extracting WhatsApp information from the sdcard with adb.
 Make sure the window size is 102x31 for an optimal view.
 The Project was created in around 3 hours and has no error handlers or anything built in.
 So dont expect to much from it xD
+![WhatsappExtractor](https://user-images.githubusercontent.com/76871383/114248713-a824e100-9998-11eb-9c9c-1a516113570e.png)
 
 Setup()
 
